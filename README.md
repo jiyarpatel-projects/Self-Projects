@@ -19,5 +19,5 @@ A self-directed data visualization project completed to challenge my technical s
 This project reflects my commitment to continuous learning and my interest in applying data analytics and visualization skills within healthcare and data-driven environments.
 
 📁 Project Files
-📊 Tableau Dashboard (.twbx)
-📄 Dataset(s) used for analysis
+📊 Tableau Dashboard
+[View Dataset used for analysis](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv)
